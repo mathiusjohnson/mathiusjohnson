@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mathiusjohnson
-- 👀 I’m interested in all things Javascript
-- 🌱 I’m currently learning Vuejs, Data Structures, Coding Algorithms
-- 💞️ I’m looking to collaborate on all things Javascript
+- 🌱 I’m currently learning Django, Graphene, and URQL
 - 📫 How to reach me mathiusjohnsondeveloper@gmail.com
 
 <!---
