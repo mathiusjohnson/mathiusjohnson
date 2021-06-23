@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathiusjohnson
-- 🌱 I’m currently learning Django, Graphene, and URQL
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me mathiusjohnsondeveloper@gmail.com
 
 <!---
