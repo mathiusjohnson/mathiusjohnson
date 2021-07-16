@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @mathiusjohnson
-- 🌱  I’m currently learning Angular
+- 🌱  I’m currently learning GraphQL
 - 📫  How to reach me mathiusjohnsondeveloper@gmail.com
 
 <!---
