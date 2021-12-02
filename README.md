@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @mathiusjohnson
-- 🌱  I’m currently learning GraphQL
+- 🌱  I’m currently learning Advent of Code Magic :D 
 - 📫  How to reach me mathiusjohnsondeveloper@gmail.com
 
 <!---
