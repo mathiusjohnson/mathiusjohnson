@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @mathiusjohnson
-- 🌱  I’m currently learning Advent of Code Magic :D 
+- 🌱  I’m currently working on React Testing
 - 📫  How to reach me mathiusjohnsondeveloper@gmail.com
 
 <!---
